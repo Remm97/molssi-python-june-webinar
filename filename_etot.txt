@@ -1,0 +1,1 @@
+ NSTEP 	 Time (ps) 	 Etot (kcal/mol) 	 Temp (K) 	 Press 
